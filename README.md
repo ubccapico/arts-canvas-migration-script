@@ -1,4 +1,4 @@
-# Course Cleanup Script
+# Canvas Migration Utility Scripts
 
 ## Introduction
 
